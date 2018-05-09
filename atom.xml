@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://MoozLee.github.io/"/>
-  <updated>2018-05-09T07:24:23.546Z</updated>
+  <updated>2018-05-09T08:17:12.303Z</updated>
   <id>https://MoozLee.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>share-macos-shadowsocks-proxy-to-other-device</title>
+    <link href="https://MoozLee.github.io/uncategorized2018/05/09/share-macos-shadowsocks-proxy-to-other-device.html"/>
+    <id>https://MoozLee.github.io/uncategorized2018/05/09/share-macos-shadowsocks-proxy-to-other-device.html</id>
+    <published>2018-05-09T08:17:12.000Z</published>
+    <updated>2018-05-09T08:17:12.303Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
